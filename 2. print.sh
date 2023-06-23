@@ -8,4 +8,7 @@ echo hellow world
 
 
 echo -e "\e[32mhello in green color\e[0m
-echo -e "\e[33mhello in yello color\e[0m
+
+echo -e "\e[33mhello in red color\e[0m
+
+
