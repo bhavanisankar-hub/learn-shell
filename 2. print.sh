@@ -7,8 +7,10 @@ echo hellow world
 # echo -e "\e[COLmMESSAGE\e[0m
 
 
-echo -e "\e[32mhello in green color\e[0m
+echo -e "\e[32mhello in green color\e[0m"
+echo -e "\e[31mhello in Red color\e[0m"
 
-echo -e "\e[33mhello in red color\e[0m
+
+
 
 
